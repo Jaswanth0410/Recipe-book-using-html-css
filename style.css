@@ -1,0 +1,36 @@
+.head{
+    text-align: center;
+    background-color: skyblue;
+    height: 55px;
+    width: 100%;
+    font-size: 32px;
+    margin-top: 0px;
+    font-weight: 200px;
+    color: white;
+}
+
+body{
+    background-color:sandybrown
+}
+
+.content{
+    border: 2px solid;
+    margin-left: 150px;
+    background-color: white;
+    text-shadow: 300px;
+    width: 80%;
+}
+
+.pink{
+    color: magenta;
+    margin: 10px;
+}
+
+ul{
+    font-size: 20px;
+    
+}
+
+p{
+    padding: 20px;
+}
